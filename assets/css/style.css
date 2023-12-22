@@ -1,0 +1,34 @@
+body {
+    color: white; 
+    margin-top: 50px;
+    background-color: rgb(201, 81, 81);
+    background-size: cover;
+    font-weight: 400;
+}
+
+.titulo{
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+body input{
+    margin-top: 10px;
+}
+
+body label{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+#telaConsulta{
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
